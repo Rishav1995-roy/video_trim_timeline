@@ -1,0 +1,34 @@
+name: video_trim_timeline
+description: "Engine-agnostic video trim timeline for Flutter: thumbnail strip, draggable trim handles, playhead, cover picker and zoom. Pure Dart, all platforms."
+version: 0.0.1
+homepage: https://github.com/Rishav1995-roy/video_trim_timeline
+repository: https://github.com/Rishav1995-roy/video_trim_timeline
+issue_tracker: https://github.com/Rishav1995-roy/video_trim_timeline/issues
+
+topics:
+  - video
+  - trim
+  - timeline
+  - widget
+  - editor
+
+screenshots:
+  - description: Demo - dragging trim handles, moving the playhead and picking a cover frame.
+    path: doc/demo.gif
+  - description: Trim timeline in light mode.
+    path: doc/screenshot_light.png
+  - description: Trim timeline in dark mode with a custom theme.
+    path: doc/screenshot_dark.png
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ">=5.0.0 <7.0.0"
