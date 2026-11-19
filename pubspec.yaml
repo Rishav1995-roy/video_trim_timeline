@@ -1,6 +1,6 @@
 name: video_trim_timeline
 description: "Engine-agnostic video trim timeline for Flutter: thumbnail strip, draggable trim handles, playhead, cover picker and zoom. Pure Dart, all platforms."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Rishav1995-roy/video_trim_timeline
 repository: https://github.com/Rishav1995-roy/video_trim_timeline
 issue_tracker: https://github.com/Rishav1995-roy/video_trim_timeline/issues
